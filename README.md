@@ -1,6 +1,6 @@
 # Work-Day-Scheduler
 
-The purpose of this exercise was to create a work day scheduler, that has an hour block for each hour of the work day (9AM - 5PM). The application contains HTML, CSS, Bootstrap, JavaScript, and Jquery.
+The purpose of this exercise was to create a work day scheduler, that has an hour block for each hour of the work day (9AM - 5PM). The application contains HTML, CSS, Bootstrap, JavaScript, Jquery, and moment.js.
 
 The first step was to create our index.html file, script.js file, and a file that contained our minified moment.js code. The index.html file was for the most part already constructed with a Jumbotron feature from Bootstrap, however I did have to manually add a container 'div' for our appended contents, as well as adding our scripts and link tags.
 
