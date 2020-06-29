@@ -11,3 +11,5 @@ After we have added our hour blocks we can move on to the second and most comple
 The last piece of functionality that this application incorporates is the ability to save the users text into local storage. The on click function saves the time and the user input, and then assigns it to the block whenever the page is refreshed as long as the tab is still pressed to save the data. The one feature I did not have time nor the patience to implement was the actual lock that could unlock and lock as a way to visually confirm that your data was locked or unlocked.
 
 This has been an incredible assignment to work on because of the amount of time that it took, being able to practice with re-using functions, and working with varibale scope. I'm very much looking forward to being able to implement AJAX into my code for the next assignment.
+
+<img src='./images/dayplanner.png'>
